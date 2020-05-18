@@ -1,0 +1,21 @@
+{
+  "name": "first-package",
+  "version": "1.0.0",
+  "description": "learning to create package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "-",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "moment": "^2.25.3"
+  }
+}
